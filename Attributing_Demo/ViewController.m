@@ -89,7 +89,7 @@
     //没看出来
 //    style.alignment = NSTextAlignmentNatural;
 
-    //首行缩进多少
+    //段落首行缩进多少
 //    style.firstLineHeadIndent = 40;
     
     //除了首行，其它地方进行缩进多少
